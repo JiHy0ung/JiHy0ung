@@ -10,7 +10,7 @@
 
 
 
-*"화면 너머의 사람을 생각하며 코드를 씁니다"*
+*"화면, 그 너머의 사람을 생각합니다"*
 
 [![Portfolio](https://capsule-render.vercel.app/api?type=venom&height=40&color=84bcff&text=Portfolio&descAlignY=50&section=header&fontColor=fff&fontAlign=50&fontSize=16&reversal=false&fontAlignY=50)](https://yjh-portfolio-2026.vercel.app)
 
