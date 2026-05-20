@@ -8,15 +8,16 @@
 
 <div align="center">
 
+
+
 *"화면 너머의 사람을 생각하며 코드를 씁니다"*
 
-
-<br>
-<br>
-
-
 [![Portfolio](https://capsule-render.vercel.app/api?type=venom&height=40&color=84bcff&text=Portfolio&descAlignY=50&section=header&fontColor=fff&fontAlign=50&fontSize=16&reversal=false&fontAlignY=50)](https://yjh-portfolio-2026.vercel.app)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbit&weight=900&size=16&letterSpacing=tighter&pause=1000&color=C4DCFFFF&center=true&vCenter=true&random=true&width=435&lines=%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B2%BD%ED%97%98%EC%9D%84+%EC%A4%91%EC%8B%AC%EC%97%90+%EB%91%90%EB%8A%94+%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C+%EA%B0%9C%EB%B0%9C%EC%9E%90;%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC+%EC%BD%94%EB%93%9C+%EC%82%AC%EC%9D%B4%EB%A5%BC+%EC%97%B0%EA%B2%B0%ED%95%A9%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
+
+
+<br>
+<br>
+
 
 
 ![Tech Stack](https://capsule-render.vercel.app/api?type=transparent&height=20&color=84bcff&text=⚒︎%20TECH%20STACK%20⚒︎&descAlignY=50&section=footer&fontColor=fff&fontAlign=50&fontSize=20&reversal=true&fontAlignY=50)
