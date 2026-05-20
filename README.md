@@ -14,11 +14,7 @@
 
 [![Portfolio](https://capsule-render.vercel.app/api?type=venom&height=40&color=84bcff&text=Portfolio&descAlignY=50&section=header&fontColor=fff&fontAlign=50&fontSize=16&reversal=false&fontAlignY=50)](https://yjh-portfolio-2026.vercel.app)
 
-
 <br>
-<br>
-
-
 
 ![Tech Stack](https://capsule-render.vercel.app/api?type=transparent&height=20&color=84bcff&text=⚒︎%20TECH%20STACK%20⚒︎&descAlignY=50&section=footer&fontColor=fff&fontAlign=50&fontSize=20&reversal=true&fontAlignY=50)
 ---
