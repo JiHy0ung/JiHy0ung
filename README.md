@@ -23,9 +23,12 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,next&theme=light)](https://skillicons.dev)
 <img src="https://img.jsdelivr.com/github.com/TanStack.png" height="48" alt="TanStack Query" />
 <img src="https://reactrouter.com/_brand/react-router-brand-assets/logo/Dark.svg" width="48" alt="React Router" />
-[![My Skills](https://skillicons.dev/icons?i=vite,mui,tailwind,styledcomponents&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite&theme=light)](https://skillicons.dev)
 <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" height="48" alt="Zustand" />
 [![My Skills](https://skillicons.dev/icons?i=redux&theme=light)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mui,tailwind,styledcomponents&theme=light)](https://skillicons.dev)
+
 
 
 
